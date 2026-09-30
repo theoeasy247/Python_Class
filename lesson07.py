@@ -13,7 +13,3 @@ else:
 # Exercise 2
 name = ("Enter your name: ")
 score = ("Enter your score: ")
-
-
-
-   
